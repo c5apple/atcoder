@@ -1,7 +1,7 @@
 # atcoder
 
 ```
-cat 2/input2.txt | node 2/main.js
+./test.sh 20220830/1
 ```
 
 的な
