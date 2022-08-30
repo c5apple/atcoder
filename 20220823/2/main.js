@@ -6,7 +6,7 @@ function main(input) {
   const s = [];
 
   for (let i = 0; i < N; i++) {
-    s.push([...input[i + 1]].sort().join(''));    
+    s.push([...input[i + 1]].sort().join(''));
   }
   console.log(N - (new Set(s.sort())).size);
 }
