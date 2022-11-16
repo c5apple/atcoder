@@ -1,0 +1,1 @@
+https://atcoder.jp/contests/code-festival-2015-morning-easy/tasks/cf_2015_morning_easy_b
